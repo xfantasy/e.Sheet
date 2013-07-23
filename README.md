@@ -1,4 +1,4 @@
-jQsheet
+eSheet
 =======
 
-jQuery.sheet
+a simple online sheet.
